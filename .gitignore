@@ -1,4 +1,5 @@
 build/
+design/
 .idea/
 node_modules/
 *.log
